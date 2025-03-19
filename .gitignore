@@ -2,9 +2,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
-volume-data/
-data/
-mysql/
+postgres/
 .mvn
 
 ### STS ###
